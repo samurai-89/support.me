@@ -102,7 +102,10 @@ h3 {
 
 h1 {
   font-size: var(--text-2xl);
-  max-width: 12em;
+  max-width: none;
+  overflow-wrap: normal;
+  white-space: nowrap;
+  word-break: keep-all;
 }
 
 h2 {
@@ -231,4 +234,3 @@ p {
     transition-duration: 1ms !important;
   }
 }
-
