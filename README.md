@@ -18,6 +18,9 @@ Static support pages published with GitHub Pages.
 │   ├── index.html
 │   ├── privacy/
 │   └── terms/
+├── diggin/
+│   ├── index.html
+│   └── privacy/
 └── index.html
 ```
 
